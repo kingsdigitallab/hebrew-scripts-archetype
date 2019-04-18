@@ -4,6 +4,8 @@
 # data, etc.)
 # Use local_settings.py for that purpose
 
+import os
+
 # Lightbox
 """
 The Lightbox is a separate project, even though it's still tightly linked to Digipal. It is possible to install it through pip:
